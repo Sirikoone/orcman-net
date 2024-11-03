@@ -1,0 +1,48 @@
+
+@font-face {
+    font-family: 'Xilla';
+    src: url('fonts//XillaProRegular.otf') format("opentype"); 
+}
+
+@font-face {
+    font-family: 'XillaItalic';
+    src: url('fonts//Xilla\ Pro\ Regular\ Italic.otf') format("opentype"); 
+}
+
+@font-face {
+    font-family: 'Wolve';
+    src: url('fonts//WolveSymbol.ttf') format("truetype"); 
+}
+
+.Wolve1 {
+    font-family: 'Wolve';
+}
+
+h3{font-family: 'Xilla'; color: antiquewhite; }
+p { font-family:'Xilla'; color: antiquewhite;}
+
+body { background-color: blue;}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
